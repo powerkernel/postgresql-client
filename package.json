@@ -37,7 +37,7 @@
     "@commitlint/cli": "20.2.0",
     "@commitlint/config-conventional": "20.2.0",
     "@types/jest": "29.5.14",
-    "@types/pg": "8.15.6",
+    "@types/pg": "8.16.0",
     "@typescript-eslint/eslint-plugin": "8.49.0",
     "@typescript-eslint/parser": "8.49.0",
     "del-cli": "7.0.0",
